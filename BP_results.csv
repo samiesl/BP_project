@@ -1,0 +1,4 @@
+Reading,Reading1,Reading2,Reading3,Average,Status
+Patient1,110,130,140,126.66666666666667,Normal
+Patient2,120,140,145,135.0,Normal
+Patient3,145,135,140,140.0,High
